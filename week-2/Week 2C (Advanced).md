@@ -17,6 +17,7 @@ C) S = 100,000,000; P = 120,000,000
 D) S = 100,000,000; P = 540,000,000
 
 key: B  
+没有掌握  
 reference: http://www.cnblogs.com/Answer1215/p/4027903.html  
 Expected memory required for pass 2:  
 
